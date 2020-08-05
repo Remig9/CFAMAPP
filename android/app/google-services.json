@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "761933016114",
+    "firebase_url": "https://cafam-599a4.firebaseio.com",
+    "project_id": "cafam-599a4",
+    "storage_bucket": "cafam-599a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761933016114:android:eda5356fe043741619a02b",
+        "android_client_info": {
+          "package_name": "com.cafam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761933016114-s6cgati5v05cd9807t83dhrhb2ucta50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnRUtUBV7_4mi6dyiBY1NcVaVQib3STJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761933016114-s6cgati5v05cd9807t83dhrhb2ucta50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

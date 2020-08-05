@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_562" data-name="Rectangle 562" width="26" height="26" transform="translate(-4195 -1111)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_11" data-name="Mask Group 11" transform="translate(4195 1111)" clip-path="url(#clip-path)">
+    <path id="Ionicons_md_menu" data-name="Ionicons md menu" d="M4.333,26h26V23.111h-26Zm0-7.222h26V15.889h-26Zm0-10.111v2.889h26V8.667Z" transform="translate(-4199.333 -1115.333)" fill="#101424"/>
+  </g>
+</svg>

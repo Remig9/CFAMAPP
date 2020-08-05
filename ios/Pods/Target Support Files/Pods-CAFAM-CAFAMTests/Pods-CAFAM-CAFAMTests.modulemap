@@ -1,0 +1,6 @@
+module Pods_CAFAM_CAFAMTests {
+  umbrella header "Pods-CAFAM-CAFAMTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
